@@ -1,6 +1,7 @@
-# Multivariate-Logistic-Regression---Telecom-Churn
+# Telecom_Churn_By_Using_Multivariate Logistic Regression
 
-Problem Statment
+Problem Statment:
+
 A telecom firm which has collected data of all its customers. The main types of attributes are:
 
 Demographics (age, gender etc.)
