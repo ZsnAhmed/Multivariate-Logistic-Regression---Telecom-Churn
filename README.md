@@ -1,6 +1,5 @@
 # Telecom Churn By Using Multivariate Logistic Regression
 
-Problem Statment:
 
 A telecom firm which has collected data of all its customers. 
 The main types of attributes are:
