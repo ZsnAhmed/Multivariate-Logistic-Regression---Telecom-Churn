@@ -1,4 +1,4 @@
-# Telecom_Churn_By_Using_Multivariate Logistic Regression
+# Telecom Churn By Using Multivariate Logistic Regression
 
 Problem Statment:
 
